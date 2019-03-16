@@ -1,0 +1,61 @@
+#d1
+{
+	margin-top:4%;
+}
+#d2
+{
+	
+	
+}
+#he3
+{
+	margin-right:8%;
+}
+#bg
+{
+  height: auto;
+	margin-top: 10%;
+	margin-right:10%;
+
+}
+.btn{min-width:215px;
+	
+}
+.notification {
+  background-color: #555;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+  margin-left: 60%;
+  width: 100px;
+
+}
+
+.notification:hover {
+  background: green;
+  color:yellow;
+}
+
+.notification .badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background: green;
+  color: white;
+
+}
+.badge {
+  position: absolute;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background: green;
+  color: white;
+
+}
+
